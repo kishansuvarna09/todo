@@ -3,5 +3,8 @@
     "eslint": "^8.31.0",
     "eslint-plugin-react": "^7.31.11",
     "prettier": "2.8.1"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0"
   }
 }
